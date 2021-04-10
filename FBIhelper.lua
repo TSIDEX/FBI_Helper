@@ -10,7 +10,7 @@ local key = require 'vkeys'
 local sampev = require 'lib.samp.events'
 local memory = require("memory")
 local mem = require "memory"
-local ver = ("10.04.21")
+script_version("10.04.21")
 
 script_name("FBIhelper")
 script_author("Trofim_Shcherbakov")
